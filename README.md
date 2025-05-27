@@ -83,7 +83,7 @@ Document your findings and map each to the corresponding MASVS control or MASTG 
 
 ## OWASP References
 
-* [**MASVS**: Mobile Application Security Verification Standard]((https://mas.owasp.org/MASVS/))
+* [**MASVS**: Mobile Application Security Verification Standard](https://mas.owasp.org/MASVS/)
 * [**MASTG**: Mobile Application Security Testing Guide](https://mas.owasp.org/MASTG/)
 
 ---
